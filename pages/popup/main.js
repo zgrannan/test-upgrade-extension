@@ -1,1 +1,1 @@
-document.body.innerText = chrome.runtime.getManifest;
+document.body.innerText = chrome.runtime.getManifest();
